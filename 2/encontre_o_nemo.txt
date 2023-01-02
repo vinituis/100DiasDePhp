@@ -1,0 +1,1 @@
+Procurar na frase onde está o nemo e diga a posição, se não houver, diga que não encontrou nemo.
